@@ -12,3 +12,9 @@ b = copy(a)
 a
 b
 b is a 
+
+#변수를 만드는 여러가지 방법
+a, b = ('apple', 'banana')
+(a, b) = 'apple', 'banana'
+[a,b] = ['apple', 'banana']
+a = b = fruit
