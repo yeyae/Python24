@@ -17,4 +17,4 @@ b is a
 a, b = ('apple', 'banana')
 (a, b) = 'apple', 'banana'
 [a,b] = ['apple', 'banana']
-a = b = fruit
+a = b = 'fruit'
